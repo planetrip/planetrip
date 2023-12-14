@@ -17,3 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 [Planetrip Destinations](https://planetrip.co/destinations)
 
+
+## PlaneTrip Sitemap
+
+[Planetrip sitemap](https://planetrip.co/sitemap.xml)
+
